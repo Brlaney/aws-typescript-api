@@ -9,22 +9,37 @@
 - serverless.ts
   
 ### Let's be honest though I followed a tutorial on youtube:
-Link --> [**Complete Coding**](https://youtu.be/HhgXwKFUzT8)
+Link: [**Complete Coding**](https://youtu.be/HhgXwKFUzT8)
 
 <hr>
 
 
-## Step 1.) Generate your boilerplate app with **aws-nodejs-typescript** template 
+### Step 1.) Generate your boilerplate app with **aws-nodejs-typescript** template 
 
 `
 serverless create --template aws-nodejs-typescript --path aws-typescript-api
 `
+</br>
 
 ## Step 2.) Create **lambdas** folder in project directory
 
+`
+mkdir lambdas 
+cd lambdas
 
+*windows*
+echo > getCityInfo.ts
 
-# Serverless - AWS Node.js Typescript
+*linux*
+touch getCityInfo.ts
+`
+
+</br>
+
+<hr>
+
+# The following is info provided by the template used: 
+## Serverless - AWS Node.js Typescript
 
 This project has been generated using the `aws-nodejs-typescript` template from the [Serverless framework](https://www.serverless.com/).
 
