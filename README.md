@@ -21,7 +21,15 @@ serverless create --template aws-nodejs-typescript --path aws-typescript-api
 `
 </br>
 
-## Step 2.) Create **lambdas** folder in project directory
+### Step 2.) Create **lambdas** folder in project directory
+
+Use npm to install all package.json dependencies that come striaght out of the box with the *aws-typescript-api* template we've used
+
+`npm install`
+
+</br>
+
+### Step 3.) Create **lambdas** folder in project directory
 
 
 `mkdir lambdas 
