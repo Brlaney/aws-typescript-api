@@ -7,12 +7,21 @@
 - Typescript
 - Webpack
 - serverless.ts
+  
+### Let's be honest though I folled a tutorial on youtube:
+[link to the youtube tutorial I followed by Complete Coding](https://youtu.be/HhgXwKFUzT8)
 
-#### Generate your boilerplate app with **aws-nodejs-typescript** template 
+<hr>
+
+
+## Step 1.) Generate your boilerplate app with **aws-nodejs-typescript** template 
 
 `
 serverless create --template aws-nodejs-typescript --path aws-typescript-api
 `
+
+## Step 2.) Create **lambdas** folder in project directory
+
 
 
 # Serverless - AWS Node.js Typescript
@@ -51,6 +60,8 @@ In order to test the hello function locally, run the following command:
 - `yarn sls invoke local -f hello --path src/functions/hello/mock.json` if you're using Yarn
 
 Check the [sls invoke local command documentation](https://www.serverless.com/framework/docs/providers/aws/cli-reference/invoke-local/) for more information.
+
+
 
 ### Remotely
 
