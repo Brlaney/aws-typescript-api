@@ -35,10 +35,10 @@ Use npm to install all package.json dependencies that come striaght out of the b
 mkdir lambdas 
 cd lambdas
 
-*windows*
+for windows
 echo > getCityInfo.ts
 
-*linux*
+for linux
 touch getCityInfo.ts
 ```
 
