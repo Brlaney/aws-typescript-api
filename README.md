@@ -31,15 +31,16 @@ Use npm to install all package.json dependencies that come striaght out of the b
 
 ### Step 3.) Create **lambdas** folder in project directory
 
-
-`mkdir lambdas 
+```
+mkdir lambdas 
 cd lambdas
 
 *windows*
 echo > getCityInfo.ts
 
 *linux*
-touch getCityInfo.ts`
+touch getCityInfo.ts
+```
 
 </br>
 
