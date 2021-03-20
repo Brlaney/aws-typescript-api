@@ -8,7 +8,7 @@
 - Webpack
 - serverless.ts
   
-### Let's be honest though I folled a tutorial on youtube:
+### Let's be honest though I followed a tutorial on youtube:
 [link to the youtube tutorial I followed by Complete Coding](https://youtu.be/HhgXwKFUzT8)
 
 <hr>
