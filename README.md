@@ -1,6 +1,6 @@
 # Modern dilemma
 
-## An ameteur's attempt at developing a modern web-application. 
+### An ameteur's attempt at developing a modern web-application. 
 
 ### Keywords
 
