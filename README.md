@@ -2,8 +2,6 @@
 
 ## An ameteur's attempt at developing a modern web-application. 
 
-</br>
-
 ### Keywords
 
 - Typescript
@@ -16,7 +14,6 @@
 serverless create --template aws-nodejs-typescript --path aws-typescript-api
 `
 
-<hr>
 
 # Serverless - AWS Node.js Typescript
 
