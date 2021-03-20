@@ -23,7 +23,7 @@ serverless create --template aws-nodejs-typescript --path aws-typescript-api
 
 ## Step 2.) Create **lambdas** folder in project directory
 
-`
+``
 mkdir lambdas 
 cd lambdas
 
@@ -32,7 +32,7 @@ echo > getCityInfo.ts
 
 *linux*
 touch getCityInfo.ts
-`
+``
 
 </br>
 
